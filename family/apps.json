@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "key": "kuku",
+      "name": "九九キング",
+      "tagline": "九九のおうさまになろう",
+      "appStoreId": "6792240688",
+      "icon": "https://takahiro-ma.github.io/family/icons/kuku.png"
+    },
+    {
+      "key": "calccard",
+      "name": "計算カードEX",
+      "tagline": "たしざん・ひきざんをカードでれんしゅう",
+      "appStoreId": "6741358888",
+      "icon": "https://takahiro-ma.github.io/family/icons/calccard.png"
+    },
+    {
+      "key": "tokei",
+      "name": "とけいキング",
+      "tagline": "とけいのよみかたをマスターしよう",
+      "appStoreId": "6793347612",
+      "icon": "https://takahiro-ma.github.io/family/icons/tokei.png"
+    },
+    {
+      "key": "kanji",
+      "name": "かんじかきとりキング",
+      "tagline": "かんじをかいて、かきとりのおうさまに",
+      "appStoreId": "6793347724",
+      "icon": "https://takahiro-ma.github.io/family/icons/kanji.png"
+    }
+  ]
+}
