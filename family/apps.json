@@ -28,6 +28,13 @@
       "tagline": "かんじをかいて、かきとりのおうさまに",
       "appStoreId": "6793347724",
       "icon": "https://takahiro-ma.github.io/family/icons/kanji.png"
+    },
+    {
+      "key": "eitango",
+      "name": "えいたんキング",
+      "tagline": "えいたんごを たのしく おぼえよう",
+      "appStoreId": "6793347154",
+      "icon": "https://takahiro-ma.github.io/family/icons/eitango.png"
     }
   ]
 }
