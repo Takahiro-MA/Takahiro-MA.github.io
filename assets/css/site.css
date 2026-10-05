@@ -363,3 +363,7 @@ footer a {
 footer a:hover {
   color: var(--accent);
 }
+
+.fields span {
+  white-space: nowrap;
+}
