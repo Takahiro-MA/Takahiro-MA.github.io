@@ -246,6 +246,16 @@ section p:last-child {
   color: var(--muted);
 }
 
+.books {
+  margin: 0 0 0.85rem;
+  padding-left: 1.1rem;
+  font-size: 0.92rem;
+}
+
+.books li {
+  margin: 0.15rem 0;
+}
+
 .work-link {
   font-size: 0.92rem;
   font-weight: 600;
